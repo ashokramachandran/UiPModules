@@ -1,0 +1,3 @@
+InvoiceNumber,Item,Amount,Tax,Total,Currency,Date
+640771,"IT Support",104530,20906,125436,CAD,2017-10-13
+506452,"Waste management services",41243,8248.6,49491.6,EUR,2017-10-15
